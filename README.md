@@ -5,6 +5,7 @@ A cool Windows "virus" that I made to play fun pranks on colleagues. Educational
 # Features
 
 * Slow the mouse and watch them get confused.
+* Move the mouse randomly for 30 seconds.
 * Eject the CD-Rom: was it a poltergeist??
 * Swap the mouse buttons: because why not.
 * Play random sound frequencies for random period of time.
